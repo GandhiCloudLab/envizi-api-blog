@@ -1,5 +1,6 @@
 # Exposing Envizi data to external systems by using API 
 
+
 ## 1. Introduction
 
 The objective of this article is to help the Envizi users to understand about Envizi APIs. This helps the user to learn about the different APIs available in Envizi and how to use them to get the data from Envizi to feed into the external systems..
